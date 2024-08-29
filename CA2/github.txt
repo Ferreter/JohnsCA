@@ -1,3 +1,5 @@
 https://github.com/Ferreter/JohnsCA/tree/main/CA2
 
-I am sorry if the recording aren't enough, I genuinely tried for good few months to try to get this to work, The model does work on Track 1 and Track 2 as far as my knowledge goes.
+I am sorry if the recording aren't enough, I genuinely tried for good few months to try to get this to work, The model does work on Track 1 and Track 2 as far as my knowledge goes. 
+
+I have also attached the picture of laptops i tried running the overall CA on, On most of them I couldn't get the sim to work, the only laptop where sim worked was the MacBook but on that getting TensorFlow to work was impossible, I spent two days trying to get it to work but after that it said model couldn't be run as it was saved in h5 file but it showed me the same error when saving it as .keras
